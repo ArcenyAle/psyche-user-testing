@@ -11,14 +11,12 @@ body {
 }
 
 .game-wrapper {
+  width: 100%;
+  max-width: 1200px;   /* increase this if needed */
+  height: 80vh;        /* responsive height */
   margin: 20px auto;
-  width: 960px;
-  height: 600px;
-  background: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   border: 2px solid #444;
+  background: black;
 }
 
 iframe {
