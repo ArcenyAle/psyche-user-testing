@@ -13,8 +13,8 @@ body {
 }
 
 .game-wrapper {
-  width: 1280px;   /* match Unity exactly */
-  height: 720px;   /* match Unity exactly */
+  width: 1360px;   /* match Unity exactly */
+  height: 800px;   /* match Unity exactly */
   margin: 20px auto;
   border: 2px solid #444;
   background: black;
